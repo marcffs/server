@@ -1,0 +1,27 @@
+header{
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    font-size: 60pt;
+    height: auto;
+    width: auto;
+}
+body{
+    font-family: Impact;
+    font-size: 20pt;
+    background-color: black;
+    color: whitesmoke;
+    letter-spacing:0.5cap;
+    margin: 0px;
+    text-transform: uppercase;
+}
+h2{
+    padding-left: 10px;
+    color: maroon;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+}
